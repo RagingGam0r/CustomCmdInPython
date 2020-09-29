@@ -1,4 +1,4 @@
- # only wrote this since cmd handler is blocked
+ # only wrote this since command prompt is blocked
  import subprocess
 import os
 import inspect
