@@ -3,7 +3,6 @@
 import os
 import inspect
 import time
-import colorama
 
 class CmdHandler:
     def __init__(self):
